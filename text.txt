@@ -4,5 +4,9 @@ outro duas linhas
 dei espaso
 another meu
 estou a mexer
-eix
-.com
+
+1.
+error:The remote end hung up unexpectedly while git cloning
+soluction:git config --global http.postBuffer 524288000
+
+2.
