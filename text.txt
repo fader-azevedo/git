@@ -1,9 +1,4 @@
-duas linhas
-meu metodo
-outro duas linhas
-dei espaso
-another meu
-estou a mexer
+
 
 1.
 error:The remote end hung up unexpectedly while git cloning
