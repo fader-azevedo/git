@@ -1,5 +1,4 @@
-
-
+Erros
 1.
 error:The remote end hung up unexpectedly while git cloning
 soluction:git config --global http.postBuffer 524288000
